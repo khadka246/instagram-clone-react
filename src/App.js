@@ -5,7 +5,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          This is an Instagram clone website
+        </p>
+        {/* <img src={logo} className="App-logo" alt="logo" />
         <p>
           !! This is an Instagram Clone Website !!
         </p>
@@ -16,7 +19,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Sujan Khadka
-        </a>
+        </a> */}
       </header>
     </div>
   );
