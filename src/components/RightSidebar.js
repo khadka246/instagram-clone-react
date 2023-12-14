@@ -1,7 +1,8 @@
 export default function RightSidebar() {
     return (
         <div>
-            <p>Right Sidebar</p>
+            <div>Profile link</div>
+            <div>Suggested for you</div>
         </div>
     );
 }                
